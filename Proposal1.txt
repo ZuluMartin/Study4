@@ -1,0 +1,7 @@
+Topic: Predict the 2018 Finishers Boston Marathon
+Motivation:
+    1. Is there specific age, gender and country that able to finish Boston marathon?
+    2. Who will be the top 3 finishers of 2018 Boston marathon statistically by age, gender and country?
+Dataset Source:
+    https://www.kaggle.com/rojour/boston-results
+    https://www.kaggle.com/rojour/finishers-boston-marathon-2017
